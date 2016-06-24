@@ -23,6 +23,7 @@ public class JavaApplication1 {
         String s = keyboard.nextLine();
         System.out.println ("pong ---> " + s);
         System.out.println("sout");
+        System.err.println("error");
         
     }
 }
